@@ -1,6 +1,6 @@
-**Challenge**
+# Challenge
 
-A program has been designed to work on two sets of documents, according to some rules and inputs.
+* A program has been designed to work on two sets of documents, according to some rules and inputs.
 
 - A directory **updates** contains versions of document content that must be used as the final version
 - A directory **originals** can contain versions of document content that may or may not be kept and considered for use as the final version
@@ -12,7 +12,7 @@ The program should add documents to a new directory called **finals** so that it
 
 The program expects either **droplist** or **allowlist** to be present when it is run. **originals** and **updates** directories may or may not be empty.
 
-**Your Task**
+# Your Task
 The program is a first version and has been provided to you for some early testing. It has been designed to work with UK style addresses and names of people, where the surnames are used as the filenames.
 
 You have been tasked with doing this and providing some feedback to the developer on the program's current functionality, describing any bugs you find and giving clear and concise steps for reproduction.
