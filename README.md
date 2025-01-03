@@ -1,6 +1,6 @@
 # Challenge
 
-* A program has been designed to work on two sets of documents, according to some rules and inputs.
+A program has been designed to work on two sets of documents, according to some rules and inputs.
 
 - A directory **updates** contains versions of document content that must be used as the final version
 - A directory **originals** can contain versions of document content that may or may not be kept and considered for use as the final version
